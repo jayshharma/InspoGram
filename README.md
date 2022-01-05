@@ -6,3 +6,4 @@ The app was developed using React, Firebase and Framer Motion. Firebase was used
 
 Below is an image of a moodboard I created to gain inspiration for a future project. It features a gallery of Uber's Design System: Base Web. 
 
+![](src/InspoGramThumbnail.PNG)
